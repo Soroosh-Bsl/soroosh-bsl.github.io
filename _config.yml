@@ -70,13 +70,13 @@ content:
         sub_title: BSc in Computer Engineeiring
         caption: Sep. 2016 - Feb. 2021
         quote: >
-          Short institution or course description (optional)
+          <a href="ce.sharif.edu">Computer Engineeiring Department</a>
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          GPA: 19.45/20, Ranked 3/~110
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Neural Response Interpretation through the Lens of Critical Pathways
         #link: https://arxiv.org/abs/2103.16886
         #link_text: arXiv 
