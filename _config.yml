@@ -54,12 +54,7 @@ semantic_scholar_username: Soroosh-Baselizadeh/1429835055
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+  I am a computer science researcher, primarily focused in Machine Learning and Deep Learning. In past, I have worked on Trustworthy ML and ML applications in Computer Vision. Below, you can find my education, publications, and related experiences. I have had close collaboration with CAMP @ Technical University of Munich, where I was an Undergraduate Excellence awardee and a research intern and published a plenty of papers at top-tier conferences. Besides, during my undergrad studies, I have been a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Tehran, Iran, where I also published some of my other works. 
 
 content:
   - title: Education
