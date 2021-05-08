@@ -70,13 +70,19 @@ content:
         sub_title: BSc in Computer Engineeiring
         caption: Sep. 2016 - Feb. 2021
         quote: >
-          <a href="ce.sharif.edu">Computer Engineeiring Department</a>
-        description: | # this will include new lines to allow paragraphs
-          GPA: 19.45/20, Ranked 3/~110
-          
+          <span style="color=#000099">Ranked 3rd/~110, GPA: 19.45/20</span>
+        description: | # this will include new lines to allow paragraphs          
           Related Coursework: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems,
           Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms,
           Computer Simulation, Database Design, Data Structures & Algorithms
+      - layout: top-left
+        title: Allameh-Helli 1 High School
+        sub_title: Diploma in Mathematics and Physics
+        caption: 2012 - 2016
+        quote: >
+          <span style="color=#000099">Ranked 1st, GPA: 19.88/20</span>
+        description: | # this will include new lines to allow paragraphs          
+          Affiliated with the National Organization of Exceptional Talents (NODET)
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
