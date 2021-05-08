@@ -60,23 +60,23 @@ about_content: | # this will include new lines to allow paragraphs
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Neural Response Interpretation through the Lens of Critical Pathways
+        link: https://arxiv.org/abs/2103.16886
+        link_text: arXiv
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Pathway-Grad Code
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            url: https://github.com/CAMP-eXplain-AI/PathwayGrad
+          - title:  ROAR-PyTorch
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/CAMP-eXplain-AI/RoarTorch
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
