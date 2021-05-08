@@ -65,7 +65,7 @@ content:
         sub_title: BSc in Computer Engineeiring
         caption: Sep. 2016 - Feb. 2021
         quote: >
-          <span style="color=#000099">Ranked 3rd/~110, GPA: 19.45/20</span>
+          <mark>Ranked 3rd/~110, GPA: 19.45/20</mark>
         description: | # this will include new lines to allow paragraphs          
           Related Coursework: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems,
           Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms,
@@ -75,7 +75,7 @@ content:
         sub_title: Diploma in Mathematics and Physics
         caption: 2012 - 2016
         quote: >
-          <span style="color=#000099">Ranked 1st, GPA: 19.88/20</span>
+          <mark>Ranked 1st, GPA: 19.88/20</mark>
         description: | # this will include new lines to allow paragraphs          
           Affiliated with the National Organization of Exceptional Talents (NODET)
   - title: Publications # Title for the section
