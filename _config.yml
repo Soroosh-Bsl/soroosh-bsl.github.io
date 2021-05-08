@@ -189,12 +189,19 @@ content:
           Working on a real-world project for ML-based detection of offensive comments in Persian websites. Gathered
           valuable real-world data from Persian news websites and processed them. Then, used the created dataset to design and test different approaches
           (e.g self-training, BERT, ...) for the best results.
-  - title: A Little More About Me
+  - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      - Ranked 3rd out of ~110 bachelor's computer engineering students in my class @ Sharif University of Technology 
+      
+      - Undergraduate Excellence Award from the Technical University of Munich, Germany [2019]: given annually
+        to <= 5 international students with an excellent background by the chair for Computer Aided Medical Procedures and Augmented Reality (CAMP). 
+      
+      - Iran's National Elites Foundation (INEF) Fellowship [2016-2021]: Recognized as scientiffic elite.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - Iran's National University Entrance Exam (Konkur) Top Scorer [2016]: Ranked 12th nationally (2nd in the relevant region) out of more than 180'000 (50'000 in the relevant region) participants.
+      
+
 
 # Footer
 footer_show_references: true
