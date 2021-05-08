@@ -69,7 +69,7 @@ content:
         title: Neural Response Interpretation through the Lens of Critical Pathways
         #link: https://arxiv.org/abs/2103.16886
         #link_text: arXiv 
-        image: /images/profile.jpg
+        image: /images/pathway-grad.jpg
         additional_links:
           - title:  Pathway-Grad Code
             icon: fab fa-github
