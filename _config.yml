@@ -33,6 +33,7 @@ linkedin_username: soroosh-baselizadeh-68591019b
 #googleplus_username: +jekyll
 #orcid_username: 0000-0000-0000-0000
 semantic_scholar_username: Soroosh-Baselizadeh/1429835055
+# google_scholar_username: ---
 
 # Additional icon links
 #additional_links:
@@ -51,7 +52,7 @@ semantic_scholar_username: Soroosh-Baselizadeh/1429835055
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /images/bg.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
