@@ -155,20 +155,20 @@ content:
         description: |
           Attributing the output of a neural network to the contribution of given input elements is a way of shedding light on the black-box nature of neural networks. Due to the complexity of current network architectures, current gradient-based attribution methods provide very noisy or coarse results. We propose to prune a neural network for a given single input to keep only neurons that highly contribute to the prediction. We show that by input-specific pruning, network gradients change from reflecting local (noisy) importance information to global importance. Our proposed method is efficient and generates fine-grained attribution maps. We further provide a theoretical justification of the pruning approach relating it to perturbations and validate it through a novel experimental setup. Our method is evaluated by multiple benchmarks: sanity checks, pixel perturbation, and Remove-and-Retrain (ROAR). These benchmarks evaluate the method from different perspectives and our method performs better than other methods across all evaluations.
           
-          <span style="color:#006400"> Ashkan Khakar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
+          <span style="color:#006400"> Ashkan Khakar, <mark>Soroosh Baselizadeh</mark>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
           <span style="color:#000099">[<a href="https://arxiv.org/abs/1911.11081">arXiv</a>]</span>
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Technical University of Munich, Germany
+        sub_title: Research Intern - Remote Research Assistant
+        caption: July 2019 - Sep. 2019 / Sep. 2019 - March 2021
+        link: http://campar.in.tum.de/
         quote: >
-          Short description of the company (optional)
+          Chair for Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ TUM
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Under the supervision of <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en"><mark>Prof. Nassir Navab</mark></a>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
