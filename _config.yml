@@ -73,10 +73,14 @@ content:
           <a href="ce.sharif.edu">Computer Engineeiring Department</a>
         description: | # this will include new lines to allow paragraphs
           GPA: 19.45/20, Ranked 3/~110
+          
+          Related Coursework: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems,
+          Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms,
+          Computer Simulation, Database Design, Data Structures & Algorithms
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: left
         title: Neural Response Interpretation through the Lens of Critical Pathways
         #link: https://arxiv.org/abs/2103.16886
         #link_text: arXiv 
