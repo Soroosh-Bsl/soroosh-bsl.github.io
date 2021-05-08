@@ -77,8 +77,8 @@ content:
           - title:  ROAR-PyTorch
             icon: fab fa-github
             url: https://github.com/CAMP-eXplain-AI/RoarTorch
-        quote: >
-          Short overview of the project (optional)
+        #quote: >
+        #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
