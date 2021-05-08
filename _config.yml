@@ -84,7 +84,7 @@ content:
           <span style="color:#900"> Ashkan Khakar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
           
           <span style="color:green"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2021 
-[<a href="url(/pubs/pathwaygrad_main.pdf)">PDF</a>][<a href="url(/pubs/pathwaygrad_appendix.pdf)">Appendix</a>][<a href="https://arxiv.org/abs/2103.16886">arXiv</a>][<a href="https://github.com/CAMP-eXplain-AI/PathwayGrad">Code</a>][<a href="https://github.com/CAMP-eXplain-AI/RoarTorch">Code</a>]</span>
+          [<a href="url(/pubs/pathwaygrad_main.pdf)">PDF</a>][<a href="url(/pubs/pathwaygrad_appendix.pdf)">Appendix</a>][<a href="https://arxiv.org/abs/2103.16886">arXiv</a>][<a href="https://github.com/CAMP-eXplain-AI/PathwayGrad">Code</a>][<a href="https://github.com/CAMP-eXplain-AI/RoarTorch">Code</a>]</span>
   - title: Experience
     layout: list
     content:
