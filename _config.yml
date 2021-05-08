@@ -88,8 +88,6 @@ content:
           [<a href="url(/files/pathwaygrad_main.pdf)">PDF</a>][<a href="url(/files/pathwaygrad_appendix.pdf)">Appendix</a>][<a href="https://arxiv.org/abs/2103.16886">arXiv</a>]</span>
       - layout: center 
         title: Multiresolution Knowledge Distillation for Anomaly Detection
-        #link: https://arxiv.org/abs/2103.16886
-        #link_text: arXiv 
         image: /images/ad_kd.jpg
         additional_links:
           - title:  AD_KD Code
@@ -104,6 +102,17 @@ content:
           
           <span style="color:#000099"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2021
           [<a href="url(/pubs/ad_kd_main.pdf)">PDF</a>][<a href="url(/pubs/ad_kd_appendix.pdf)">Appendix</a>][<a href="https://arxiv.org/abs/2011.11108">arXiv</a>]</span>
+      - layout: center 
+        title: Rethinking Positive Aggregation and Propagation of Gradients in Gradient-based Saliency Methods
+        image: /images/rethink.jpg
+        #quote: >
+        #  Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Saliency methods interpret the prediction of a neural network by showing the importance of input elements for that prediction. A popular family of saliency methods utilize gradient information. In this work, we empirically show that two approaches for handling the gradient information, namely positive aggregation, and positive propagation, break these methods. Though these methods reflect visually salient information in the input, they do not explain the model prediction anymore as the generated saliency maps are insensitive to the predicted output and are insensitive to model parameter randomization. Specifically for methods that aggregate the gradients of a chosen layer such as GradCAM++ and FullGrad, exclusively aggregating positive gradients is detrimental. We further support this by proposing several variants of aggregation methods with positive handling of gradient information. For methods that backpropagate gradient information such as LRP, RectGrad, and Guided Backpropagation, we show the destructive effect of exclusively propagating positive gradient information.
+          
+          <span style="color:#900"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong> and Nassir Navab </span>
+          <span style="color:green"> International Conference on Machine Learning (<strong>ICML</strong>) 2020 - Workshop on Human Interpretability in Machine Learning (<strong>WHI</strong>) </span>
+          [<a href="url(/pubs/rethink_pos_grad_main.pdf)">PDF</a>][<a href="https://arxiv.org/abs/2012.00362">arXiv</a>][<a href="url(/pubs/rethink_pos_grad_vid.pdf)">Presentation</a>]
   - title: Experience
     layout: list
     content:
