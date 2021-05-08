@@ -36,7 +36,7 @@ linkedin_username: soroosh-baselizadeh-68591019b
 # Additional icon links
 additional_links:
 - title: Semantic Scholar
-  icon: ai-semantic-scholar
+  icon: ai ai-semantic-scholar ai-4x
   url: https://www.semanticscholar.org/author/Soroosh-Baselizadeh/1429835055
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
