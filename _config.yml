@@ -65,7 +65,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: top-center
         title: Neural Response Interpretation through the Lens of Critical Pathways
         #link: https://arxiv.org/abs/2103.16886
         #link_text: arXiv 
