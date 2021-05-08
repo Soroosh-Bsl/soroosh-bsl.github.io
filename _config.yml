@@ -112,8 +112,8 @@ content:
           
           <span style="color:#FF8C00"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong> and Nassir Navab </span>
           
-          <span style="color:000099"> International Conference on Machine Learning (<strong>ICML</strong>) 2020 - Workshop on Human Interpretability in Machine Learning (<strong>WHI</strong>) </span>
-          [<a href="url(/pubs/rethink_pos_grad_main.pdf)">PDF</a>][<a href="https://arxiv.org/abs/2012.00362">arXiv</a>][<a href="url(/pubs/rethink_pos_grad_vid.pdf)">Presentation</a>]
+          <span style="color:000099"> International Conference on Machine Learning (<strong>ICML</strong>) 2020 - Workshop on Human Interpretability in Machine Learning (<strong>WHI</strong>)
+          [<a href="url(/pubs/rethink_pos_grad_main.pdf)">PDF</a>][<a href="https://arxiv.org/abs/2012.00362">arXiv</a>][<a href="url(/pubs/rethink_pos_grad_vid.pdf)">Presentation</a>] </span>
   - title: Experience
     layout: list
     content:
