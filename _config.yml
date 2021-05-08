@@ -49,10 +49,10 @@ semantic_scholar_username: Soroosh-Baselizadeh/1429835055
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-
+#<a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/bg.jpg
+about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   
