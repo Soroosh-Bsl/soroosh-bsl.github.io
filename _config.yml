@@ -86,7 +86,7 @@ content:
           
           <span style="color:#000099"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>) 2021 
           [<a href="url(/files/pathwaygrad_main.pdf)">PDF</a>][<a href="url(/files/pathwaygrad_appendix.pdf)">Appendix</a>][<a href="https://arxiv.org/abs/2103.16886">arXiv</a>]</span>
-          
+      - layout: center 
         title: Multiresolution Knowledge Distillation for Anomaly Detection
         #link: https://arxiv.org/abs/2103.16886
         #link_text: arXiv 
