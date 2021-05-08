@@ -166,9 +166,19 @@ content:
         caption: July 2019 - Sep. 2019 / Sep. 2019 - March 2021
         link: http://campar.in.tum.de/
         quote: >
-          Chair for Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ TUM
+          Undergraduate Excellence Award (2019) from the Chair for Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ TUM
         description: | # this will include new lines to allow paragraphs
-          Under the supervision of <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en"><mark>Prof. Nassir Navab</mark></a>
+          Under the supervision of <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en"><mark>Prof. Nassir Navab</mark></a>.
+          Working on explainable ML, the interpretability of neural networks, critical data routing paths within deep models, and network pruning.
+      - layout: left
+        title: Robust and Interpretable Machine Learning (RIML)
+        sub_title: Research Assistant
+        caption: March 2019 - March. 2021
+        quote: >
+          @ Sharif University of Technology, Tehran, Iran
+        description: | # this will include new lines to allow paragraphs
+          Under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ"><mark>Prof. Mohammad Hossein Rohban</mark></a>.
+          Working on machine learning and computer vision with a focus on anomaly detection, transfer learning, knowledge distillation, adversarial robustness, and meta-learning.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
