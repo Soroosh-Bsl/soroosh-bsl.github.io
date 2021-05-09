@@ -37,7 +37,7 @@
         {%- endif -%}
         {%- if site.semantic_scholar_username -%}
           <li>
-            <a target="_blank" href="https://www.semanticscholar.org/author/{{ site.semantic_scholar_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+            <a target="_blank" href="https://www.semanticscholar.org/author/{{ site.semantic_scholar_username| cgi_escape | escape }}/{{ site.semantic_scholar_id| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="ai ai-semantic-scholar ai-4x" title="My Semantic Scholar"></i>
             </a>
           </li>
