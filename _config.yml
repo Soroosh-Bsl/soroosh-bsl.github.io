@@ -115,11 +115,11 @@ content:
           leverage them for interpreting the network's response to an input. The pruning objective -- selecting the smallest group of neurons for which the response remains equivalent to the 
           original network -- has been previously proposed for identifying critical pathways. We demonstrate that sparse pathways derived from pruning do not necessarily encode critical input information. 
           To ensure sparse pathways include critical fragments of the encoded input information, we propose pathway selection via neurons' contribution to the response. We proceed to explain how critical pathways can 
-          reveal critical input features. We prove <span id="dots_1">...</span><span id="more_1" style="display:none"> that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for 
+          reveal critical input features. We prove<span id="dots_1">...</span><span id="more_1" style="display:none">that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for 
           proposing a feature attribution method: "pathway gradient". We validate our interpretation method using mainstream evaluation experiments. The validation of pathway gradient interpretation method further confirms 
           that selected pathways using neuron contributions correspond to critical input features.
           
-          <button onclick="moreFunction("dots_1", "more_1", "moreBtn_1")" id="moreBtn_1" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction("dots_1", "more_1", "moreBtn_1")" id="moreBtn_1">More</button>
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
           
@@ -139,7 +139,7 @@ content:
           The challenges to learn such a representation are two-fold. Firstly, the sample size is not often large enough to learn a rich generalizable representation through 
           conventional techniques. Secondly, while only normal samples are available at training, the learned features should be discriminative of normal and anomalous samples. 
           Here, we propose to use the “distillation” of features at various layers of an expert network, which is pre-trained on ImageNet, into a simpler cloner network to tackle both issues. 
-          We detect and localize anomalies <span id="dots_2">...</span><span id="more_2" style="display:none"> using the discrepancy between the expert and cloner networks’ intermediate activation values given an input sample. 
+          We detect and localize anomalies<span id="dots_2">...</span><span id="more_2" style="display:none">using the discrepancy between the expert and cloner networks’ intermediate activation values given an input sample. 
           We show that considering multiple intermediate hints in distillation leads to better exploitation of the expert’s knowledge and a more distinctive discrepancy between the two networks, 
           compared to utilizing only the last layer activation values. Notably, previous methods either fail in precise anomaly localization or need expensive region-based training. In contrast, 
           with no need for any special or intensive training procedure, we incorporate interpretability algorithms in our novel framework to localize anomalous regions. 
