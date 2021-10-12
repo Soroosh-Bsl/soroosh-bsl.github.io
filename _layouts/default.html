@@ -35,10 +35,10 @@
   {% endif %}
 </body>
   <script> 
-  function moreFunction() {
-    var dots = document.getElementById("dots");
-    var moreText = document.getElementById("more");
-    var btnText = document.getElementById("myBtn");
+  function moreFunction(dots_id, more_id, btn_id) {
+    var dots = document.getElementById(dots_id);
+    var moreText = document.getElementById(more_id);
+    var btnText = document.getElementById(btn_id);
 
     if (dots.style.display === "none") {
       dots.style.display = "inline";

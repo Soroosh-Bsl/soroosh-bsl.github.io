@@ -115,10 +115,11 @@ content:
           leverage them for interpreting the network's response to an input. The pruning objective -- selecting the smallest group of neurons for which the response remains equivalent to the 
           original network -- has been previously proposed for identifying critical pathways. We demonstrate that sparse pathways derived from pruning do not necessarily encode critical input information. 
           To ensure sparse pathways include critical fragments of the encoded input information, we propose pathway selection via neurons' contribution to the response. We proceed to explain how critical pathways can 
-          reveal critical input features. We prove <span id="dots">...</span><span id="more" style="display:none"> that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for 
+          reveal critical input features. We prove <span id="dots_1">...</span><span id="more_1" style="display:none"> that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for 
           proposing a feature attribution method: "pathway gradient". We validate our interpretation method using mainstream evaluation experiments. The validation of pathway gradient interpretation method further confirms 
           that selected pathways using neuron contributions correspond to critical input features.
-          <button onclick="moreFunction()" id="myBtn" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          
+          <button onclick="moreFunction("dots_1", "more_1", "moreBtn_1")" id="moreBtn_1" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
           
@@ -138,13 +139,13 @@ content:
           The challenges to learn such a representation are two-fold. Firstly, the sample size is not often large enough to learn a rich generalizable representation through 
           conventional techniques. Secondly, while only normal samples are available at training, the learned features should be discriminative of normal and anomalous samples. 
           Here, we propose to use the “distillation” of features at various layers of an expert network, which is pre-trained on ImageNet, into a simpler cloner network to tackle both issues. 
-          We detect and localize anomalies <span id="dots">...</span><span id="more" style="display:none"> using the discrepancy between the expert and cloner networks’ intermediate activation values given an input sample. 
+          We detect and localize anomalies <span id="dots_2">...</span><span id="more_2" style="display:none"> using the discrepancy between the expert and cloner networks’ intermediate activation values given an input sample. 
           We show that considering multiple intermediate hints in distillation leads to better exploitation of the expert’s knowledge and a more distinctive discrepancy between the two networks, 
           compared to utilizing only the last layer activation values. Notably, previous methods either fail in precise anomaly localization or need expensive region-based training. In contrast, 
           with no need for any special or intensive training procedure, we incorporate interpretability algorithms in our novel framework to localize anomalous regions. 
           Despite the striking difference between some test datasets and ImageNet, we achieve competitive or significantly superior results compared to SOTA on MNIST, F-MNIST, CIFAR-10, MVTecAD, Retinal-OCT, 
           and two other medical datasets on both anomaly detection and localization.</span>
-          <button onclick="moreFunction()" id="myBtn" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction("dots_2", "more_2", "moreBtn_2")" id="moreBtn_2" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
           
           <span style="color:#006400"> MohammadReza Salehi, Niousha Sadjadi*, <strong>Soroosh Baselizadeh*</strong>, Mohammad Hossein Rohban, and Hamid R. Rabiee </span>
           
@@ -163,10 +164,10 @@ content:
           input feature attribution methods (aka saliency methods). However, input feature attribution methods merely identify the importance of input regions for the prediction and lack semantic interpretation 
           of model behavior. In this work, we first identify the semantics associated with internal units (feature maps) of the network. We proceed to investigate the following questions; Does a regression model 
           that is only trained with COVID-19 severity scores implicitly learn visual patterns associated with thoracic pathologies? Does a network that is trained on weakly labeled data (e.g. healthy, unhealthy) 
-          implicitly learn pathologies? Moreover, <span id="dots">...</span><span id="more" style="display:none"> we investigate the effect of pretraining and data imbalance on the interpretability of learned features. 
+          implicitly learn pathologies? Moreover, <span id="dots_3">...</span><span id="more_3" style="display:none"> we investigate the effect of pretraining and data imbalance on the interpretability of learned features. 
           In addition to the analysis, we propose semantic attribution to semantically explain each prediction. We present our findings using publicly available chest pathologies (CheXpert, NIH ChestX-ray8) 
           and COVID-19 datasets (BrixIA, and COVID-19 chest X-ray segmentation dataset).
-          <button onclick="moreFunction()" id="myBtn" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction("dots_3", "more_3", "moreBtn_3")" id="moreBtn_3" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
                     
           <span style="color:#006400"> Ashkan Khakzar, Sabrina Musatian, Jonas Buchberger, Icxel Valeriano Quiroz, Nikolaus Pinger, <strong>Soroosh Baselizadeh</strong>, Seong Tae Kim, Nassir Navab </span>
           <span style="color:#000099"> International Conference on Medical Image Computing and Computer-Assisted Intervention (<mark>MICCAI</mark>) 2021
@@ -184,9 +185,9 @@ content:
           In this work, we empirically show that two approaches for handling the gradient information, namely positive aggregation, and positive propagation, break these methods. Though these methods reflect 
           visually salient information in the input, they do not explain the model prediction anymore as the generated saliency maps are insensitive to the predicted output and are insensitive to model parameter 
           randomization. Specifically for methods that aggregate the gradients of a chosen layer such as GradCAM++ and FullGrad, exclusively aggregating positive gradients is detrimental. 
-          <span id="dots">...</span><span id="more" style="display:none"> We further support this by proposing several variants of aggregation methods with positive handling of gradient information. 
+          <span id="dots_4">...</span><span id="more_4" style="display:none"> We further support this by proposing several variants of aggregation methods with positive handling of gradient information. 
           For methods that backpropagate gradient information such as LRP, RectGrad, and Guided Backpropagation, we show the destructive effect of exclusively propagating positive gradient information.
-          <button onclick="moreFunction()" id="myBtn" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction("dots_4", "more_4", "moreBtn_4")" id="moreBtn_4" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong> and Nassir Navab </span>
           
