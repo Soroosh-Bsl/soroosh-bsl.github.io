@@ -145,7 +145,7 @@ content:
           with no need for any special or intensive training procedure, we incorporate interpretability algorithms in our novel framework to localize anomalous regions. 
           Despite the striking difference between some test datasets and ImageNet, we achieve competitive or significantly superior results compared to SOTA on MNIST, F-MNIST, CIFAR-10, MVTecAD, Retinal-OCT, 
           and two other medical datasets on both anomaly detection and localization.</span>
-          <button onclick="moreFunction("dots_2", "more_2", "moreBtn_2")" id="moreBtn_2" style:"background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction("dots_2", "more_2", "moreBtn_2")" id="moreBtn_2">More</button>
           
           <span style="color:#006400"> MohammadReza Salehi, Niousha Sadjadi*, <strong>Soroosh Baselizadeh*</strong>, Mohammad Hossein Rohban, and Hamid R. Rabiee </span>
           
