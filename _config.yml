@@ -111,7 +111,13 @@ content:
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Is critical input information encoded in specific sparse pathways within the neural network? In this work, we discuss the problem of identifying these critical pathways and subsequently leverage them for interpreting the network's response to an input. The pruning objective -- selecting the smallest group of neurons for which the response remains equivalent to the original network -- has been previously proposed for identifying critical pathways. We demonstrate that sparse pathways derived from pruning do not necessarily encode critical input information. To ensure sparse pathways include critical fragments of the encoded input information, we propose pathway selection via neurons' contribution to the response. We proceed to explain how critical pathways can reveal critical input features. We prove that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for proposing a feature attribution method: "pathway gradient". We validate our interpretation method using mainstream evaluation experiments. The validation of pathway gradient interpretation method further confirms that selected pathways using neuron contributions correspond to critical input features.
+          Is critical input information encoded in specific sparse pathways within the neural network? In this work, we discuss the problem of identifying these critical pathways and subsequently 
+          leverage them for interpreting the network's response to an input. The pruning objective -- selecting the smallest group of neurons for which the response remains equivalent to the 
+          original network -- has been previously proposed for identifying critical pathways. We demonstrate that sparse pathways derived from pruning do not necessarily encode critical input information. 
+          To ensure sparse pathways include critical fragments of the encoded input information, we propose pathway selection via neurons' contribution to the response. We proceed to explain how critical 
+          pathways can reveal critical input features. We prove that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for proposing a feature attribution method: 
+          "pathway gradient". We validate our interpretation method using mainstream evaluation experiments. The validation of pathway gradient interpretation method further confirms that selected pathways using 
+          neuron contributions correspond to critical input features.
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
           
@@ -152,7 +158,13 @@ content:
             url: https://github.com/CAMP-eXplain-AI/CheXplain-Dissection
         image: /images/covid.jpg 
         description: |
-          Convolutional neural networks are showing promise in the automatic diagnosis of thoracic pathologies on chest x-rays. Their black-box nature has sparked many recent works to explain the prediction via input feature attribution methods (aka saliency methods). However, input feature attribution methods merely identify the importance of input regions for the prediction and lack semantic interpretation of model behavior. In this work, we first identify the semantics associated with internal units (feature maps) of the network. We proceed to investigate the following questions; Does a regression model that is only trained with COVID-19 severity scores implicitly learn visual patterns associated with thoracic pathologies? Does a network that is trained on weakly labeled data (e.g. healthy, unhealthy) implicitly learn pathologies? Moreover, we investigate the effect of pretraining and data imbalance on the interpretability of learned features. In addition to the analysis, we propose semantic attribution to semantically explain each prediction. We present our findings using publicly available chest pathologies (CheXpert, NIH ChestX-ray8) and COVID-19 datasets (BrixIA, and COVID-19 chest X-ray segmentation dataset).
+          Convolutional neural networks are showing promise in the automatic diagnosis of thoracic pathologies on chest x-rays. Their black-box nature has sparked many recent works to explain the prediction via 
+          input feature attribution methods (aka saliency methods). However, input feature attribution methods merely identify the importance of input regions for the prediction and lack semantic interpretation 
+          of model behavior. In this work, we first identify the semantics associated with internal units (feature maps) of the network. We proceed to investigate the following questions; Does a regression model 
+          that is only trained with COVID-19 severity scores implicitly learn visual patterns associated with thoracic pathologies? Does a network that is trained on weakly labeled data (e.g. healthy, unhealthy) 
+          implicitly learn pathologies? Moreover, we investigate the effect of pretraining and data imbalance on the interpretability of learned features. In addition to the analysis, we propose semantic 
+          attribution to semantically explain each prediction. We present our findings using publicly available chest pathologies (CheXpert, NIH ChestX-ray8) and COVID-19 datasets (BrixIA, and COVID-19 chest X-ray 
+          segmentation dataset).
           
           <span style="color:#006400"> Ashkan Khakzar, Sabrina Musatian, Jonas Buchberger, Icxel Valeriano Quiroz, Nikolaus Pinger, <strong>Soroosh Baselizadeh</strong>, Seong Tae Kim, Nassir Navab </span>
           <span style="color:#000099"> International Conference on Medical Image Computing and Computer-Assisted Intervention (<mark>MICCAI</mark>) 2021
@@ -166,7 +178,12 @@ content:
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Saliency methods interpret the prediction of a neural network by showing the importance of input elements for that prediction. A popular family of saliency methods utilize gradient information. In this work, we empirically show that two approaches for handling the gradient information, namely positive aggregation, and positive propagation, break these methods. Though these methods reflect visually salient information in the input, they do not explain the model prediction anymore as the generated saliency maps are insensitive to the predicted output and are insensitive to model parameter randomization. Specifically for methods that aggregate the gradients of a chosen layer such as GradCAM++ and FullGrad, exclusively aggregating positive gradients is detrimental. We further support this by proposing several variants of aggregation methods with positive handling of gradient information. For methods that backpropagate gradient information such as LRP, RectGrad, and Guided Backpropagation, we show the destructive effect of exclusively propagating positive gradient information.
+          Saliency methods interpret the prediction of a neural network by showing the importance of input elements for that prediction. A popular family of saliency methods utilize gradient information. 
+          In this work, we empirically show that two approaches for handling the gradient information, namely positive aggregation, and positive propagation, break these methods. Though these methods reflect 
+          visually salient information in the input, they do not explain the model prediction anymore as the generated saliency maps are insensitive to the predicted output and are insensitive to model parameter 
+          randomization. Specifically for methods that aggregate the gradients of a chosen layer such as GradCAM++ and FullGrad, exclusively aggregating positive gradients is detrimental. We further support this 
+          by proposing several variants of aggregation methods with positive handling of gradient information. For methods that backpropagate gradient information such as LRP, RectGrad, and Guided Backpropagation, 
+          we show the destructive effect of exclusively propagating positive gradient information.
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong> and Nassir Navab </span>
           
