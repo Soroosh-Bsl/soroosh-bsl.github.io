@@ -61,8 +61,8 @@ about_content: | # this will include new lines to allow paragraphs
   I have had close collaboration with CAMP @ Technical University of Munich 
   (Supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), 
   where I was an Undergraduate Excellence Awardee and a research intern and published a plenty of papers at top-tier conferences. 
-  Besides, during my undergrad studies, I have been a member of Robust and Interpretable ML Lab @ Sharif University of Technology 
-  (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), Tehran, Iran, 
+  Besides, during my undergrad studies, I have been a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Tehran, Iran 
+  (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), 
   where I also published some of my other works. 
 
 content:
@@ -84,7 +84,7 @@ content:
           <mark>Ranked 3rd/~110, GPA: 19.45/20</mark>
         description: | # this will include new lines to allow paragraphs          
           Supervisor: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
-          Related Coursework: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
+          <b>Related Coursework: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
       - layout: top-left
         title: Allameh-Helli 1 High School
         sub_title: Diploma in Mathematics and Physics
