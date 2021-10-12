@@ -25,7 +25,7 @@
       {%- endif -%}
 	  
 	  {%- if item.image -%}
-		<span align="left" class="pub-img" style="margin:auto; background-image: url({{ item.image | relative_url }})" />
+		<span align="left" class="pub-img" style="margin:auto; background-image: url({{ item.image | relative_url }})" /></span>
 	  {%- endif -%}
       {{ item.description | strip | markdownify }}
     </div>
