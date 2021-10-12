@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>. 
   In past, I have worked on Trustworthy ML and ML applications in Computer Vision. Below, you can find a summary of my education, publications, and related experiences. 
   I have had close collaboration with CAMP @ Technical University of Munich 
-  (Supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), 
+  (supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), 
   where I was an Undergraduate Excellence Awardee and a research intern and published a plenty of papers at top-tier conferences. 
   Besides, during my undergrad studies, I have been a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Tehran, Iran 
   (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), 
@@ -214,7 +214,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - David R. Cheriton Scholarship Graduate Scholarship, Department of Computer Science, University of Waterloo [2021-2023]
     
-      - International Master's Award of Excellence, University of Waterloo [2021-2023]
+      - International Master's Award of Excellence (IMAE), University of Waterloo [2021-2023]
     
       - Undergraduate Excellence Award from the Technical University of Munich, Germany [2019]: given annually
         to <= 5 international students with an excellent background by the chair for Computer Aided Medical Procedures and Augmented Reality (CAMP). 
