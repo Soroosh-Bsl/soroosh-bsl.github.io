@@ -96,7 +96,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Neural Response Interpretation through the Lens of Critical Pathways
         #link: https://arxiv.org/abs/2103.16886
         #link_text: arXiv 
@@ -124,7 +124,7 @@ content:
           
           <span style="color:#000099"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<mark>CVPR</mark>) 2021
           [<a href="https://arxiv.org/abs/2103.16886">arXiv</a>][<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.html">CVF Open Access (CVPR2021)</a>]</span>
-      - layout: left 
+      - layout: top 
         title: Multiresolution Knowledge Distillation for Anomaly Detection
         image: /images/ad_kd.jpg
         additional_links:
@@ -151,7 +151,7 @@ content:
           <span style="color:#000099"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<mark>CVPR</mark>) 2021
           [<a href="https://arxiv.org/abs/2011.11108">arXiv</a>][<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html">CVF Open Access (CVPR2021)</a>]</span>
       
-      - layout: left 
+      - layout: top 
         title: Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models
         additional_links:
           - title:  Covid_Interpretation Code
@@ -175,7 +175,7 @@ content:
           [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-87199-4_47">Springer (DOI)</a>]
           [<a href="https://rdcu.be/cyl4H">SharedIt</a>]</span>         
       
-      - layout: left 
+      - layout: top 
         title: Rethinking Positive Aggregation and Propagation of Gradients in Gradient-based Saliency Methods
         image: /images/rethink.jpg
         #quote: >
