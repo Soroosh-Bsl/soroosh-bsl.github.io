@@ -69,14 +69,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: University of Waterloo
         sub_title: Master's in Computer Science
         caption: Sep. 2021 - Present
         description: |
             <b>Supervisors</b>: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> 
             and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>
-      - layout: top-left
+      - layout: left
         title: Sharif University of Technology
         sub_title: BSc in Computer Engineeiring
         caption: Sep. 2016 - Feb. 2021
@@ -85,7 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs          
           <b>Supervisor</b>: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
           <br><b>Related Coursework</b>: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
-      - layout: top-left
+      - layout: left
         title: Allameh-Helli 1
         sub_title: Secondary School, Diploma in Mathematics and Physics
         caption: 2012 - 2016
