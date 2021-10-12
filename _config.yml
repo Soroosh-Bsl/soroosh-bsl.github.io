@@ -73,8 +73,9 @@ content:
         title: University of Waterloo
         sub_title: Master's in Computer Science
         caption: Sep. 2021 - Present
-        description:
-            Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>. 
+        description: |
+            Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> 
+            and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>. 
       - layout: top-left
         title: Sharif University of Technology
         sub_title: BSc in Computer Engineeiring
@@ -160,7 +161,7 @@ content:
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong> and Nassir Navab </span>
           
           <span style="color:#000099"> International Conference on Machine Learning (<mark>ICML</mark>) 2020 - Workshop on Human Interpretability in ML (<mark>WHI</mark>)
-          [<a href="https://arxiv.org/abs/2012.00362">arXiv</a>][<a href="https://drive.google.com/file/d/1lKd1bciGkeh1y6fjwJlUpToD1eJyzap5/view?usp=sharing">Full Proceedings of Vsenue</a>]</span>
+          [<a href="https://arxiv.org/abs/2012.00362">arXiv</a>][<a href="https://drive.google.com/file/d/1lKd1bciGkeh1y6fjwJlUpToD1eJyzap5/view?usp=sharing">Full Proceedings of the Venue</a>]</span>
           
           
       #- layout: left 
