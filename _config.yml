@@ -86,13 +86,13 @@ content:
           <b>Supervisor</b>: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
           <br><b>Related Coursework</b>: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
       - layout: top-left
-        title: Allameh-Helli 1 High School
-        sub_title: Diploma in Mathematics and Physics
+        title: Allameh-Helli 1
+        sub_title: Secondary School, Diploma in Mathematics and Physics
         caption: 2012 - 2016
         quote: >
           <mark>Ranked 1st, GPA: 19.88/20</mark>
         description: | # this will include new lines to allow paragraphs          
-          Affiliated with the <b>National Organization of Exceptional Talents (NODET)</b>
+          Affiliated with the <b> National Organization for Development of Exceptional Talents (NODET)</b>
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -127,7 +127,17 @@ content:
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Unsupervised representation learning has proved to be a critical component of anomaly detection/localization in images. The challenges to learn such a representation are two-fold. Firstly, the sample size is not often large enough to learn a rich generalizable representation through conventional techniques. Secondly, while only normal samples are available at training, the learned features should be discriminative of normal and anomalous samples. Here, we propose to use the “distillation” of features at various layers of an expert network, which is pre-trained on ImageNet, into a simpler cloner network to tackle both issues. We detect and localize anomalies using the discrepancy between the expert and cloner networks’ intermediate activation values given an input sample. We show that considering multiple intermediate hints in distillation leads to better exploitation of the expert’s knowledge and a more distinctive discrepancy between the two networks, compared to utilizing only the last layer activation values. Notably, previous methods either fail in precise anomaly localization or need expensive region-based training. In contrast, with no need for any special or intensive training procedure, we incorporate interpretability algorithms in our novel framework to localize anomalous regions. Despite the striking difference between some test datasets and ImageNet, we achieve competitive or significantly superior results compared to SOTA on MNIST, F-MNIST, CIFAR-10, MVTecAD, Retinal-OCT, and two other medical datasets on both anomaly detection and localization.
+          Unsupervised representation learning has proved to be a critical component of anomaly detection/localization in images. 
+          The challenges to learn such a representation are two-fold. Firstly, the sample size is not often large enough to learn a rich generalizable representation through 
+          conventional techniques. Secondly, while only normal samples are available at training, the learned features should be discriminative of normal and anomalous samples. 
+          Here, we propose to use the “distillation” of features at various layers of an expert network, which is pre-trained on ImageNet, into a simpler cloner network to tackle both issues. 
+          <span id="dots">...</span><span id="more" style="display:none"> We detect and localize anomalies using the discrepancy between the expert and cloner networks’ intermediate activation values given an input sample. 
+          We show that considering multiple intermediate hints in distillation leads to better exploitation of the expert’s knowledge and a more distinctive discrepancy between the two networks, 
+          compared to utilizing only the last layer activation values. Notably, previous methods either fail in precise anomaly localization or need expensive region-based training. In contrast, 
+          with no need for any special or intensive training procedure, we incorporate interpretability algorithms in our novel framework to localize anomalous regions. 
+          Despite the striking difference between some test datasets and ImageNet, we achieve competitive or significantly superior results compared to SOTA on MNIST, F-MNIST, CIFAR-10, MVTecAD, Retinal-OCT, 
+          and two other medical datasets on both anomaly detection and localization.</span>
+          <button onclick="moreFunction()" id="myBtn">More</button>
           
           <span style="color:#006400"> MohammadReza Salehi, Niousha Sadjadi*, <strong>Soroosh Baselizadeh*</strong>, Mohammad Hossein Rohban, and Hamid R. Rabiee </span>
           
