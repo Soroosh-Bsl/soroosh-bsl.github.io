@@ -54,7 +54,7 @@ semantic_scholar_username: Soroosh-Baselizadeh+1429835055
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a computer science researcher, primarily focused in Computer Vision, Machine Learning and Deep Learning. I am currently a Master's student at the University of Waterloo, 
+  I am a computer science researcher, primarily focused in Computer Vision, Machine Learning and Deep Learning. I am currently a Computer Science Master's student at the University of Waterloo, 
   where I am supervised by <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> and 
   <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>. 
   In past, I have worked on Trustworthy ML and ML applications in Computer Vision. Below, you can find a summary of my education, publications, and related experiences. 
@@ -74,8 +74,9 @@ content:
         sub_title: Master's in Computer Science
         caption: Sep. 2021 - Present
         description: |
-            Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> 
-            and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>. 
+            <b>Supervisors</b>: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> 
+            and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>
+            <br>Working on Computer Vision 
       - layout: top-left
         title: Sharif University of Technology
         sub_title: BSc in Computer Engineeiring
@@ -83,8 +84,8 @@ content:
         quote: >
           <mark>Ranked 3rd/~110, GPA: 19.45/20</mark>
         description: | # this will include new lines to allow paragraphs          
-          Supervisor: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
-          <b>Related Coursework: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
+          <b>Supervisor</b>: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
+          <br><b>Related Coursework</b>: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
       - layout: top-left
         title: Allameh-Helli 1 High School
         sub_title: Diploma in Mathematics and Physics
@@ -92,7 +93,7 @@ content:
         quote: >
           <mark>Ranked 1st, GPA: 19.88/20</mark>
         description: | # this will include new lines to allow paragraphs          
-          Affiliated with the National Organization of Exceptional Talents (NODET)
+          Affiliated with the <b>National Organization of Exceptional Talents (NODET)</b>
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
