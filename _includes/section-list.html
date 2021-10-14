@@ -1,14 +1,12 @@
 {% for item in include.content %}
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
-      <h3>{{ item.title }}</h3>
-	  <p class="no-print aditional-links">
-        {% for link in item.additional_links %}
-          {% include a.html href=link.url class="" %}
-            <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
-          </a>
-        {% endfor %}
-      </p>
+      <h4>{{ item.title }}</h4>
+      {% for link in item.additional_links %}
+        {% include a.html href=link.url class="" %}
+          <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
+        </a>
+      {% endfor %}
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
 
@@ -23,11 +21,14 @@
       {%- if item.quote -%}
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
-	  
-	  {%- if item.image -%}
+      <div style="width=90%;">
+      {{ item.description | strip | markdownify }}
+      </div><div style="width=10%;">
+      {%- if item.image -%}
 		<span align="left" class="pub-img" style="margin:auto; background-image: url({{ item.image | relative_url }})" /></span>
 	  {%- endif -%}
-      {{ item.description | strip | markdownify }}
+	</div>
+	  
     </div>
   </div>
 {% endfor %}
