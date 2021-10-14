@@ -21,9 +21,9 @@
       {%- if item.quote -%}
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
-      <div style="width=90%; display=inline-block">
+      <div class="col-xs-12 col-sm-7 col-md-6 col-print-12">
       {{ item.description | strip | markdownify }}
-      </div><div style="width=10%; display=inline-block">
+      </div><div class="col-xs-12 col-sm-5 col-md-6 no-print">
       {%- if item.image -%}
 		<span align="left" class="pub-img" style="display=inline-block; margin:auto; background-image: url({{ item.image | relative_url }})" /></span>
 	  {%- endif -%}
