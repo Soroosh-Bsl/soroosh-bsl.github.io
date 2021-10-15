@@ -203,7 +203,7 @@ content:
           
       #    <span style="color:#006400"> Ashkan Khakar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
       #    <span style="color:#000099">[<a href="https://arxiv.org/abs/1911.11081">arXiv</a>]</span>
-  - title: Experience
+  - title: Experiences
     layout: list
     content:
       - layout: left
