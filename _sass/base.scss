@@ -241,3 +241,17 @@ body {
   }
 }
 
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+header {
+	height:200px;
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}

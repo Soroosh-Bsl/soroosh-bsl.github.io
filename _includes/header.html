@@ -138,6 +138,15 @@
       {%- endif -%}
     </div>
   </div>
+
+<script>
+$('#nav').affix({
+      offset: {
+        top: $('header').height()
+      }
+});	
+</script>
+
 <div id="nav">
 <nav class="navbar navbar-inverse navbar-static">
   <div class="container-fluid">
@@ -151,11 +160,4 @@
 </nav>
 </div>
 
-<script>
-$('#nav').affix({
-      offset: {
-        top: $('header').height()
-      }
-});	
-</script>
 </div>
