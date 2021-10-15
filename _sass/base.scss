@@ -246,12 +246,12 @@ body {
 }
 
 header {
-	height:800px;
+	height:8000px;
 }
 
 #nav.affix {
     position: fixed;
-    top: 200;
-    width: 80%;
+    top: 0;
+    width: auto;
     z-index:10;
 }
