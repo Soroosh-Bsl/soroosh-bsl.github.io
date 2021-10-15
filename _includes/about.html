@@ -1,6 +1,9 @@
 <div class="container intro-container">
+  
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
   <style>
-  /* Note: Try to remove the following lines to see the effect of CSS positioning */
   .affix {
     top: 0;
     width: 100%;
@@ -11,22 +14,16 @@
     padding-top: 100px;
   }
   </style>
-  <div id="nav">
-  <nav class="navbar navbar-inverse navbar-static data-spy="affix" data-offset-top="200"">
-   <div class="container-fluid">
+  
+  <nav class="navbar navbar-inverse data-spy="affix" data-offset-top="200"">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
         <li><a href="#Education...">Education</a></li>
         <li><a href="#Experiences...">Experiences</a></li>
         <li><a href="#Honors...">Honors & Awards</a></li>
       </ul>
-    </div>
   </nav>
-  </div>
-
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-
+  
   <h3>{{ site.about_title | default: "About Me" }}</h3>
   <div class="row clearfix">
     {%- if site.about_profile_image -%}
