@@ -248,8 +248,18 @@ a.anchor {
     visibility: hidden;
 }
 
-.navbar-brand {
-  transform: translateX(-50%);
-  left: 50%;
-  position: absolute;
+.navbar .navbar-header,
+.navbar-collapse {
+    float:none;
+    display:inline-block;
+    vertical-align: top;
+    padding-left: 0;
+    padding-right: 0;
 }
+
+@media (max-width: 768px) {
+    .navbar-collapse  {
+        display: block;
+    }
+}
+
