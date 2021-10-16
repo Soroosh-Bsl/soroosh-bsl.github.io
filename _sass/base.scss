@@ -248,6 +248,9 @@ a.anchor {
     visibility: hidden;
 }
 
+.navbar-header{
+    z-index: 999;
+}
 .navbar .navbar-header,
 .navbar-collapse {
     float:none;
