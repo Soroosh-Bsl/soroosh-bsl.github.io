@@ -171,7 +171,7 @@ content:
           In addition to the analysis, we propose semantic attribution to semantically explain each prediction. 
           We present our findings using publicly available chest pathologies (CheXpert, NIH ChestX-ray8) 
           and COVID-19 datasets (BrixIA, and COVID-19 chest X-ray segmentation dataset).</span>
-          <button onclick="moreFunction('dots_3', 'more_3', 'moreBtn_3')" id="moreBtn_3" style="background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction('dots_3', 'more_3', 'moreBtn_3')" id="moreBtn_3" style="background-color: transparent; border: none; color: black; text-align: center; text-decoration: none; display: inline-block;">More</button>
                     
           <span style="color:#006400"> A. Khakzar, S. Musatian, J. Buchberger, I. Valeriano Quiroz, N. Pinger, <strong>S. Baselizadeh</strong>, S. T. Kim, Nassir Navab </span>
           
