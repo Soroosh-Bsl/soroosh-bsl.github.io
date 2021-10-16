@@ -247,22 +247,12 @@ a.anchor {
     top: -57px;
     visibility: hidden;
 }
-
-.navbar-header{
-    z-index: 999;
+.navbar.center .navbar-inner {
+    text-align: center;
 }
-.navbar .navbar-header,
-.navbar-collapse {
-    float:none;
+
+.navbar.center .navbar-inner .nav {
     display:inline-block;
-    vertical-align: top;
-    padding-left: 0;
-    padding-right: 0;
-}
-
-@media (max-width: 768px) {
-    .navbar-collapse  {
-        display: block;
-    }
+    float: none;
 }
 
