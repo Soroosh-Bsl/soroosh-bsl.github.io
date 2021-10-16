@@ -248,11 +248,8 @@ a.anchor {
     visibility: hidden;
 }
 
-.navbar.center .collapse.inner .navbar-brand.inner{
-    text-align: center;
-}
-.navbar.center .collapse.inner .navbar-brand.inner .nav {
-    float: none;
-    display:inline-block;
-    vertical-align: middle;
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
 }
