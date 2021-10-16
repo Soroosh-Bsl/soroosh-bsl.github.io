@@ -118,7 +118,7 @@ content:
           reveal critical input features. We prove that pathways selected via neuron contribution are locally linear (in an L2-ball), a property that we use for 
           proposing a feature attribution method: "pathway gradient". We validate our interpretation method using mainstream evaluation experiments. The validation of pathway gradient interpretation method further confirms 
           that selected pathways using neuron contributions correspond to critical input features.</span>
-          <button onclick="moreFunction('dots_1', 'more_1', 'moreBtn_1')" id="moreBtn_1" style="background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction('dots_1', 'more_1', 'moreBtn_1')" id="moreBtn_1" style="background-color: transparent; border: none; color: black; text-align: center; text-decoration: none; display: inline-block;"><strong>More</strong></button>
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong>, Saurabh Khanduja, Christian Rupprecht, Seong Tae Kim, and Nassir Navab </span>
           
@@ -147,7 +147,7 @@ content:
           with no need for any special or intensive training procedure, we incorporate interpretability algorithms in our novel framework to localize anomalous regions. 
           Despite the striking difference between some test datasets and ImageNet, we achieve competitive or significantly superior results compared to SOTA on MNIST, F-MNIST, CIFAR-10, MVTecAD, Retinal-OCT, 
           and two other medical datasets on both anomaly detection and localization.</span> 
-          <button onclick="moreFunction('dots_2', 'more_2', 'moreBtn_2')" id="moreBtn_2" style="background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction('dots_2', 'more_2', 'moreBtn_2')" id="moreBtn_2" style="background-color: transparent; border: none; color: black; text-align: center; text-decoration: none; display: inline-block;"><strong>More</strong></button>
           
           <span style="color:#006400"> MohammadReza Salehi, Niousha Sadjadi*, <strong>Soroosh Baselizadeh*</strong>, M. H. Rohban, and Hamid R. Rabiee </span>
           
@@ -195,7 +195,7 @@ content:
           We further support this by proposing several variants of aggregation methods with positive handling of gradient information. 
           For methods that backpropagate gradient information such as LRP, RectGrad, and Guided Backpropagation, we show the destructive effect of 
           exclusively propagating positive gradient information.</span>
-          <button onclick="moreFunction('dots_4', 'more_4', 'moreBtn_4')" id="moreBtn_4" style="background-color: #808080; border: none; color: white; text-align: center; text-decoration: none; display: inline-block;">More</button>
+          <button onclick="moreFunction('dots_4', 'more_4', 'moreBtn_4')" id="moreBtn_4" style="background-color: transparent; border: none; color: black; text-align: center; text-decoration: none; display: inline-block;"><strong>More</strong></button>
           
           <span style="color:#006400"> Ashkan Khakzar, <strong>Soroosh Baselizadeh</strong>, Nassir Navab </span>
           
