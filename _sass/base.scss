@@ -247,12 +247,13 @@ a.anchor {
     top: -57px;
     visibility: hidden;
 }
-.navbar.center .navbar-inner {
+
+.navbar.center .collapse.inner {
     text-align: center;
 }
-
-.navbar.center .navbar-inner .nav {
-    display:inline-block;
+.navbar.center .collapse.inner .nav {
     float: none;
+    display:inline-block;
+    vertical-align: middle;
 }
 
