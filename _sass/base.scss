@@ -248,10 +248,10 @@ a.anchor {
     visibility: hidden;
 }
 
-.navbar.center .navbar-inner {
+.navbar.center .collapse.inner {
     text-align: center;
 }
-.navbar.center .navbar-inner .nav {
+.navbar.center .collapse.inner .nav {
     float: none;
     display:inline-block;
     vertical-align: middle;
