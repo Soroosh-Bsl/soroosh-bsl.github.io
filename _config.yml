@@ -33,7 +33,7 @@ linkedin_username: soroosh-baselizadeh-68591019b
 #googleplus_username: +jekyll
 #orcid_username: 0000-0000-0000-0000
 semantic_scholar_username: Soroosh-Baselizadeh+1429835055
-# google_scholar_username: ---
+google_scholar_username: DHb2F-0AAAAJ&view_op=list_works&sortby=pubdate
 
 # Additional icon links
 #additional_links:
@@ -251,7 +251,7 @@ content:
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - David R. Cheriton Scholarship Graduate Scholarship, Department of Computer Science, University of Waterloo [2021-2023]
+      - David R. Cheriton Graduate Scholarship, Department of Computer Science, University of Waterloo [2021-2023]
     
       - International Master's Award of Excellence (IMAE), University of Waterloo [2021-2023]
     
