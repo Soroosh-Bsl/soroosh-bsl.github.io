@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Soroosh Baselizadeh
 # title: Your job title
-email: soroosh.baselizadeh@gmail.com
+email: sbaseliz@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -239,8 +239,6 @@ content:
           - title:  Asr-Gooyesh LinkedIn
             icon: fab fa-linkedin
             url: https://www.linkedin.com/company/asr-gooyesh-pardaz-co-/
-        quote: >
-          Tehran, Iran
         description: | # this will include new lines to allow paragraphs
           - Crawled, and scrapped user comments data from Twitter and Persian news websites using Scrappy
           - Cleaned, normalized, and pre-processed the collected text data in Python
