@@ -74,8 +74,8 @@ content:
         title: Sharif University of Technology
         sub_title: BSc in Computer Engineeiring
         caption: Sep. 2016 - Feb. 2021
-        quote: >
-          <mark>Ranked 3rd/~110, GPA: 19.45/20</mark>
+        #quote: >
+        #  <mark>Ranked 3rd/~110, GPA: 19.45/20</mark>
         description: | # this will include new lines to allow paragraphs          
           <b>Supervisor</b>: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
           <br><b>Related Coursework</b>: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
@@ -201,39 +201,54 @@ content:
     layout: list
     content:
       - layout: left
-        title: Technical University of Munich, Germany
-        sub_title: Research Intern - Remote Research Assistant
+        title: Remote Research Assistant
+        sub_title: CAMP @ TUM, Germany
         caption: July 2019 - Sep. 2019 / Sep. 2019 - March 2021
-        link: http://campar.in.tum.de/
+        link: https://www.cs.cit.tum.de/camp/start/
         quote: >
-          Undergraduate Excellence Award from the Chair for Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ TUM
+          Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ Technical University of Munich, Germany
         description: | # this will include new lines to allow paragraphs
-          Under the supervision of <a href="https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en"><mark>Prof. Nassir Navab</mark></a>.
-          Working on explainable ML, the interpretability of neural networks, critical data routing paths within deep models, and network pruning.
+        	- Collaborated in a multi-organizational and international team from the UK (Oxford) and Germany (TUM)
+        	- Designed and implemented a new algorithm for explaining deep image classification models using critical pathways in neural networks, improving the state-of-the-art on CIFAR, BirdSnap by 10%
+        	- Implemented sanity checks methods from scratch using PyTorch, numpy, sklearn, and scipy, including layer-by-layer model randomization and input randomization
+        	- Formulated the critical pathways in deep models as a linear approximation, proving the efficacy of the method
+        	- Implemented, and analyzed weaknesses of 5+ gradient-based image saliency methods using PyTorch 
+        	- Developed parts of a study on interpreting the COVID-19 diagnosis deep models and their features’ semantics 
+        	- Wrote significant parts of publications at CVPR, ICML, and MICCAI
+        	- Used Git continuously for version control and coordination
       - layout: left
-        title: Robust and Interpretable Machine Learning (RIML) Lab
-        sub_title: Research Assistant
+        title: Research Assistant
+        sub_title: Robust and Interpretable ML (RIML) Lab
         caption: March 2019 - March. 2021
         quote: >
-          @ Sharif University of Technology, Tehran, Iran
+          Robust and Interpretable Machine Learning (RIML) Lab @ Sharif University of Technology, Iran
         description: | # this will include new lines to allow paragraphs
-          Under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ"><mark>Prof. Mohammad Hossein Rohban</mark></a>.
-          Working on machine learning and computer vision with a focus on anomaly detection, transfer learning, knowledge distillation, adversarial robustness, and meta-learning.
+          - Developed a new method for image anomaly detection & localization based on knowledge distillation & transfer learning improving the state-of-the-art up to 20% on 7 industrial and medical datasets
+          - Implemented several interpretability methods of deep neural networks including Grad-CAM, Integrated Gradients, Vanilla Gradients in PyTorch
+          - Designed, and implemented experiments for evaluation/ablation using numpy, PyTorch, and matplotlib 
+          - Wrote most parts of a paper published at CVPR
+          - Presented findings using Jupyter and Tensorboard in meetings, and performed version control on Git
       - layout: left
-        title: Asr-Gooyesh Pardaz Company
-        sub_title: Intern
+        title: NLP Intern
+        sub_title: Asr Gooyesh Company
         caption: Sep. 2021 - Jan. 2021
         link: http://asr-gooyesh.com/en/
+        quote: >
+          Natural Language Processing (NLP) Intern 
         additional_links:
-          - title:  Asr-Gooyesh Pardaz LinkedIn
+          - title:  Asr-Gooyesh LinkedIn
             icon: fab fa-linkedin
             url: https://www.linkedin.com/company/asr-gooyesh-pardaz-co-/
         quote: >
           Tehran, Iran
         description: | # this will include new lines to allow paragraphs
-          Working on a real-world project for ML-based detection of offensive comments in Persian websites. Gathered
-          valuable real-world data from Persian news websites and processed them. Then, used the created dataset to design and test different approaches
-          (e.g self-training, BERT, ...) for the best results.
+          - Crawled, and scrapped user comments data from Twitter and Persian news websites using Scrappy
+          - Cleaned, normalized, and pre-processed the collected text data in Python
+          - Performed primary data analysis and visualization using Pandas, and matplotlib
+          - Labelled, and partitioned train/test data and created a dataset with near 100k size for offensive vs. non-offensive Persian comments based on the preliminary data analysis
+          - Implemented Transformer models based on BERT using Wordpiece tokenizer in PyTorch for offensive vs. non-offensive classification of Persian comments
+          - Tested, and benchmarked different versions of the model using PyTorch, Seaborn and matplotlib
+          - Documented, and presented the findings in meetings and to the R&D department
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
