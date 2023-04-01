@@ -69,6 +69,7 @@ content:
         description: |
             <b>Supervisors</b>: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> 
             and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>
+            <br><b>Related Coursework</b>: Deep Learning, Computational Vision, Reinforcement Learning
       - layout: left
         title: Sharif University of Technology
         sub_title: BSc in Computer Engineeiring
@@ -78,14 +79,6 @@ content:
         description: | # this will include new lines to allow paragraphs          
           <b>Supervisor</b>: <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>
           <br><b>Related Coursework</b>: Probability & Statistics, Linear Algebra, Artificial Intelligence, Signals & Systems, Modern Information Retrieval, Algorithmic Game Theory, Numerical Methods, Design of Algorithms, Computer Simulation, Database Design, Data Structures & Algorithms
-      - layout: left
-        title: Allameh-Helli 1
-        sub_title: Secondary School<br>Diploma in Mathematics and Physics
-        caption: 2012 - 2016
-        quote: >
-          <mark>Ranked 1st, GPA: 19.88/20</mark>
-        description: | # this will include new lines to allow paragraphs          
-          Affiliated with the <b> National Organization for Development of Exceptional Talents (NODET)</b>
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
