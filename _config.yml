@@ -56,13 +56,7 @@ about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Computer Vision, Machine Learning and Deep Learning graduate researcher currently at the University of Waterloo, 
   where I am supervised by <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ">Prof. Yuri Boykov</a> and 
-  <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Prof. Olga Veksler</a>. My focus at the moment is around learning better instance/semantic segmentation 
-  via learning edges. I have had close collaboration with Computer Aided Medical Procedures (CAMP) @ Technical University of Munich  
-  (supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), 
-  where I was an Undergraduate Excellence Awardee and a research assistant and published several wonderfully interesting projects at CVPR, MICCAI, and ICML on explainable ML, and interpretability in medical applications of deep learning. 
-  Besides, I have worked as a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Tehran, Iran 
-  (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), 
-  where I worked on an interesting project for anomaly detection/localization in which we improved the tate-of-the-art by a margin on 7 datasets through a novel teacher-student knowledge distillation and transfer learning setting. 
+  <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Prof. Olga Veksler</a>. My focus at the moment is around learning better instance/semantic segmentation via learning edges. In past, I have been a research assistant at Computer Aided Medical Procedures (<a href="https://www.cs.cit.tum.de/camp/start/">CAMP</a>) @ Technical University of Munich (supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), where we published several wonderfully interesting projects at CVPR, MICCAI, and ICML on explainable ML, and interpretability in medical applications of deep learning. Besides, I have worked as a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Iran (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), where I worked on an interesting project for anomaly detection/localization in which we improved the tate-of-the-art by a margin on 7 datasets through a novel teacher-student knowledge distillation and transfer learning setting. 
 
 content:
   - title: Education
