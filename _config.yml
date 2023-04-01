@@ -26,14 +26,14 @@ github_username:  soroosh-bsl
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: soroosh-baselizadeh-68591019b
+linkedin_username: soroosh-baselizadeh
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
 #orcid_username: 0000-0000-0000-0000
 semantic_scholar_username: Soroosh-Baselizadeh+1429835055
-google_scholar_username: DHb2F-0AAAAJ&view_op=list_works&sortby=pubdate
+google_scholar_username: DHb2F-0AAAAJ
 
 # Additional icon links
 #additional_links:
@@ -54,16 +54,15 @@ google_scholar_username: DHb2F-0AAAAJ&view_op=list_works&sortby=pubdate
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a computer science researcher, primarily focused in Computer Vision, Machine Learning and Deep Learning. I am currently a Computer Science Master's student at the University of Waterloo, 
-  where I am supervised by <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> and 
-  <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>. 
-  In past, I have worked on Trustworthy ML and ML applications in Computer Vision. Below, you can find a summary of my education, publications, and related experiences. 
-  I have had close collaboration with CAMP @ Technical University of Munich 
+  I am a Computer Vision, Machine Learning and Deep Learning graduate researcher currently at the University of Waterloo, 
+  where I am supervised by <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ">Prof. Yuri Boykov</a> and 
+  <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Prof. Olga Veksler</a>. My focus at the moment is around learning better instance/semantic segmentation 
+  via learning edges. I have had close collaboration with Computer Aided Medical Procedures (CAMP) @ Technical University of Munich  
   (supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), 
-  where I was an Undergraduate Excellence Awardee and a research intern and published a plenty of papers at top-tier conferences. 
-  Besides, during my undergrad studies, I have been a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Tehran, Iran 
+  where I was an Undergraduate Excellence Awardee and a research assistant and published several wonderfully interesting projects at CVPR, MICCAI, and ICML on explainable ML, and interpretability in medical applications of deep learning. 
+  Besides, I have worked as a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Tehran, Iran 
   (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), 
-  where I also published some of my other works. 
+  where I worked on an interesting project for anomaly detection/localization in which we improved the tate-of-the-art by a margin on 7 datasets through a novel teacher-student knowledge distillation and transfer learning setting. 
 
 content:
   - title: Education
