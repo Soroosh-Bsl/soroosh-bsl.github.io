@@ -208,14 +208,14 @@ content:
         quote: >
           Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ Technical University of Munich, Germany
         description: | # this will include new lines to allow paragraphs
-        	- Collaborated in a multi-organizational and international team from the UK (Oxford) and Germany (TUM)
-        	- Designed and implemented a new algorithm for explaining deep image classification models using critical pathways in neural networks, improving the state-of-the-art on CIFAR, BirdSnap by 10%
-        	- Implemented sanity checks methods from scratch using PyTorch, numpy, sklearn, and scipy, including layer-by-layer model randomization and input randomization
-        	- Formulated the critical pathways in deep models as a linear approximation, proving the efficacy of the method
-        	- Implemented, and analyzed weaknesses of 5+ gradient-based image saliency methods using PyTorch 
-        	- Developed parts of a study on interpreting the COVID-19 diagnosis deep models and their features’ semantics 
-        	- Wrote significant parts of publications at CVPR, ICML, and MICCAI
-        	- Used Git continuously for version control and coordination
+        - Collaborated in a multi-organizational and international team from the UK (Oxford) and Germany (TUM)
+        - Designed and implemented a new algorithm for explaining deep image classification models using critical pathways in neural networks, improving the state-of-the-art on CIFAR, BirdSnap by 10%
+        - Implemented sanity checks methods from scratch using PyTorch, numpy, sklearn, and scipy, including layer-by-layer model randomization and input randomization
+        - Formulated the critical pathways in deep models as a linear approximation, proving the efficacy of the method
+        - Implemented, and analyzed weaknesses of 5+ gradient-based image saliency methods using PyTorch 
+        - Developed parts of a study on interpreting the COVID-19 diagnosis deep models and their features’ semantics 
+        - Wrote significant parts of publications at CVPR, ICML, and MICCAI
+        - Used Git continuously for version control and coordination
       - layout: left
         title: Research Assistant
         sub_title: Robust and Interpretable ML (RIML) Lab
@@ -223,11 +223,11 @@ content:
         quote: >
           Robust and Interpretable Machine Learning (RIML) Lab @ Sharif University of Technology, Iran
         description: | # this will include new lines to allow paragraphs
-          - Developed a new method for image anomaly detection & localization based on knowledge distillation & transfer learning improving the state-of-the-art up to 20% on 7 industrial and medical datasets
-          - Implemented several interpretability methods of deep neural networks including Grad-CAM, Integrated Gradients, Vanilla Gradients in PyTorch
-          - Designed, and implemented experiments for evaluation/ablation using numpy, PyTorch, and matplotlib 
-          - Wrote most parts of a paper published at CVPR
-          - Presented findings using Jupyter and Tensorboard in meetings, and performed version control on Git
+        - Developed a new method for image anomaly detection & localization based on knowledge distillation & transfer learning improving the state-of-the-art up to 20% on 7 industrial and medical datasets
+        - Implemented several interpretability methods of deep neural networks including Grad-CAM, Integrated Gradients, Vanilla Gradients in PyTorch
+        - Designed, and implemented experiments for evaluation/ablation using numpy, PyTorch, and matplotlib 
+        - Wrote most parts of a paper published at CVPR
+        - Presented findings using Jupyter and Tensorboard in meetings, and performed version control on Git
       - layout: left
         title: NLP Intern
         sub_title: Asr Gooyesh Company
@@ -240,13 +240,13 @@ content:
             icon: fab fa-linkedin
             url: https://www.linkedin.com/company/asr-gooyesh-pardaz-co-/
         description: | # this will include new lines to allow paragraphs
-          - Crawled, and scrapped user comments data from Twitter and Persian news websites using Scrappy
-          - Cleaned, normalized, and pre-processed the collected text data in Python
-          - Performed primary data analysis and visualization using Pandas, and matplotlib
-          - Labelled, and partitioned train/test data and created a dataset with near 100k size for offensive vs. non-offensive Persian comments based on the preliminary data analysis
-          - Implemented Transformer models based on BERT using Wordpiece tokenizer in PyTorch for offensive vs. non-offensive classification of Persian comments
-          - Tested, and benchmarked different versions of the model using PyTorch, Seaborn and matplotlib
-          - Documented, and presented the findings in meetings and to the R&D department
+        - Crawled, and scrapped user comments data from Twitter and Persian news websites using Scrappy
+        - Cleaned, normalized, and pre-processed the collected text data in Python
+        - Performed primary data analysis and visualization using Pandas, and matplotlib
+        - Labelled, and partitioned train/test data and created a dataset with near 100k size for offensive vs. non-offensive Persian comments based on the preliminary data analysis
+        - Implemented Transformer models based on BERT using Wordpiece tokenizer in PyTorch for offensive vs. non-offensive classification of Persian comments
+        - Tested, and benchmarked different versions of the model using PyTorch, Seaborn and matplotlib
+        - Documented, and presented the findings in meetings and to the R&D department
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
