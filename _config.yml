@@ -199,14 +199,15 @@ content:
   - title: Experiences
     layout: list
     content:
-    - layout: left
+      - layout: left
         title: Machine Learning Researcher and Engineer
         sub_title: Electronic Arts (EA)
         caption: Sep. 2021 - Present
         quote: >
           Advanced Technology Group (ATG) @ EA Sports, Vancouver, Canada
         description: | # this will include new lines to allow paragraphs
-
+            + Working on novel computer vision and machine learning applications to enhance gaming experiences across EA Sports titles.
+          
       - layout: left
         title: Remote Research Assistant
         sub_title: CAMP @ TUM, Germany
