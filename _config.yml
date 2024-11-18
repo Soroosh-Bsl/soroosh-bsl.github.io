@@ -65,11 +65,12 @@ content:
       - layout: left
         title: University of Waterloo
         sub_title: Master's in Computer Science
-        caption: Sep. 2021 - Present
+        caption: Sep. 2021 - Sep. 2023
         description: |
             <b>Supervisors</b>: <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Yuri Boykov</a> 
             and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ&view_op=list_works&sortby=pubdate">Prof. Olga Veksler</a>
             <br><b>Related Coursework</b>: Deep Learning, Computational Vision, Reinforcement Learning
+            <br><b>Thesis</b>: Occlusion-ordered Semantic Instance Segmentation
       - layout: left
         title: Sharif University of Technology
         sub_title: BSc in Computer Engineeiring
@@ -200,10 +201,18 @@ content:
   - title: Experiences
     layout: list
     content:
+    - layout: left
+        title: Machine Learning Researcher & Engineer
+        sub_title: Electronic Arts (EA)
+        caption: Sep. 2021 - Present
+        quote: >
+          Advanced Technology Group (ATG) @ EA Sports, Vancouver, Canada
+        description: | # this will include new lines to allow paragraphs
+
       - layout: left
         title: Remote Research Assistant
         sub_title: CAMP @ TUM, Germany
-        caption: July 2019 - Sep. 2019 / Sep. 2019 - March 2021
+        caption: July 2019 - March 2021
         link: https://www.cs.cit.tum.de/camp/start/
         quote: >
           Computer Aided Medical Procedueres and Augmented Reality (CAMP) @ Technical University of Munich, Germany
@@ -250,6 +259,9 @@ content:
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
+    
+      - Reviewer at CVPR2024, AAAI2025, CVPR2025
+    
       - David R. Cheriton Graduate Scholarship, Department of Computer Science, University of Waterloo [2021-2023]
     
       - International Master's Award of Excellence (IMAE), University of Waterloo [2021-2023]
