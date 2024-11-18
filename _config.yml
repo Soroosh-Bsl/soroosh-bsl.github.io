@@ -54,10 +54,8 @@ google_scholar_username: DHb2F-0AAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Computer Vision, Machine Learning and Deep Learning graduate researcher currently at the University of Waterloo, 
-  where I am supervised by <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ">Prof. Yuri Boykov</a> and 
-  <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Prof. Olga Veksler</a>. My focus at the moment is around learning better instance/semantic segmentation via learning edges. In past, I have been a research assistant at Computer Aided Medical Procedures (<a href="https://www.cs.cit.tum.de/camp/start/">CAMP</a>) @ Technical University of Munich (supervised by <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Nassir Navab</a>), where we published several wonderfully interesting projects at CVPR, MICCAI, and ICML on explainable ML, and interpretability in medical applications of deep learning. Besides, I have worked as a member of Robust and Interpretable ML Lab @ Sharif University of Technology, Iran (supervised by <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate">Prof. MH Rohban</a>), where I worked on an interesting project for anomaly detection/localization in which we improved the tate-of-the-art by a margin on 7 datasets through a novel teacher-student knowledge distillation and transfer learning setting. 
 
+  I am a Machine Learning Researcher and Engineer at Electronic Arts Inc., Canada, specializing in computer vision and advanced ML applications. I earned my B.Sc. in Computer Engineering from Sharif University of Technology, where I worked with Prof. <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works">M.H. Rohban</a>, and my M.Sc. in Computer Science from the University of Waterloo under Profs. <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ">Yuri Boykov</a> and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Olga Veksler</a>. Previously, I collaborated with Prof.<a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works">Nassir Navab</a> at the CAMP lab, Technical University of Munich. My research focuses on segmentation, anomaly detection, explainable AI, and knowledge distillation, with contributions published in and reviewed for leading conferences such as CVPR, AAAI, MICCAI, and ICML.
 content:
   - title: Education
     layout: list
@@ -202,7 +200,7 @@ content:
     layout: list
     content:
     - layout: left
-        title: Machine Learning Researcher & Engineer
+        title: Machine Learning Researcher and Engineer
         sub_title: Electronic Arts (EA)
         caption: Sep. 2021 - Present
         quote: >
