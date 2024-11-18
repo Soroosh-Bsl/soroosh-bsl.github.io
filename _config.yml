@@ -55,7 +55,7 @@ google_scholar_username: DHb2F-0AAAAJ
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  I am a Machine Learning Researcher and Engineer at Electronic Arts Inc., Canada, specializing in computer vision and advanced ML applications. I earned my B.Sc. in Computer Engineering from Sharif University of Technology, where I worked with Prof. <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works">M.H. Rohban</a>, and my M.Sc. in Computer Science from the University of Waterloo under Profs. <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ">Yuri Boykov</a> and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Olga Veksler</a>. Previously, I collaborated with Prof.<a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works">Nassir Navab</a> at the CAMP lab, Technical University of Munich. My research focuses on segmentation, anomaly detection, explainable AI, and knowledge distillation, with contributions published in and reviewed for leading conferences such as CVPR, AAAI, MICCAI, and ICML.
+  I am a Machine Learning Researcher and Engineer at Electronic Arts Inc., Canada, specializing in computer vision and advanced ML applications. I earned my B.Sc. in Computer Engineering from Sharif University of Technology, where I worked with Prof. <a href="https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works">M.H. Rohban</a>. I completed my M.Sc. in Computer Science from the University of Waterloo under Profs. <a href="https://scholar.google.com/citations?hl=en&user=h6_PdYsAAAAJ">Yuri Boykov</a> and <a href="https://scholar.google.com/citations?hl=en&user=r5QkMysAAAAJ">Olga Veksler</a>. Previously, I collaborated with Prof. <a href="https://scholar.google.de/citations?hl=en&user=kzoVUPYAAAAJ&view_op=list_works">Nassir Navab</a> at the CAMP lab, Technical University of Munich. My research focuses on segmentation, anomaly detection, explainable AI, and knowledge distillation, with contributions published in top venues like CVPR, AAAI, MICCAI, and ICML, where I have also served as a reviewer.
 content:
   - title: Education
     layout: list
@@ -206,7 +206,7 @@ content:
         quote: >
           Advanced Technology Group (ATG) @ EA Sports, Vancouver, Canada
         description: | # this will include new lines to allow paragraphs
-            + Working on novel computer vision and machine learning applications to enhance gaming experiences across EA Sports titles.
+            + Working on novel computer vision and ML solutions to enhance gaming experiences across EA Sports titles.
           
       - layout: left
         title: Remote Research Assistant
